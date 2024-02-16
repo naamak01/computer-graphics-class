@@ -2,8 +2,6 @@
 
 Welcome to the Skybox Renderer project! This is a simple web application designed to render a skybox using HTML, CSS, and Three.js. The application provides a dynamic visualization of a rotating skybox.
 
-[Live Demo](#) <!-- Update with your live demo link -->
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
