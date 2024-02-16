@@ -45,7 +45,6 @@ To run the Skybox Renderer locally, follow these steps:
    ```
 
 ## Technologies Used
-- React
 - Three.js
 - HTML
 - CSS
